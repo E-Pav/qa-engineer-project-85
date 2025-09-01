@@ -1,0 +1,36 @@
+---
+- summary: |
+    Проверка входа по почте и паролю
+  status: pass
+
+- summary: |
+    Проверка входа через GitHub
+  status: pass
+
+- summary: |
+    Проверка мобильной версии
+  status: pass
+
+- summary: |
+    Старт игры с ботом
+  status: pass
+
+- summary: |
+    Старт игры с другом
+  status: pass
+
+- summary: |
+    Старт игры со случайным пользователем
+  status: pass
+
+- summary: |
+    Переключение языков программирования
+  status: pass
+
+- summary: |
+    Победа
+  status: pass
+
+- summary: |
+    Поражение
+  status: pass
