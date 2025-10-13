@@ -51,7 +51,7 @@
     Password: KuKu2025)   
   steps:
     - Нажать на кнопку "Sign in"
-    - Должна появиться форма регистрации с полями: Email, Password
+    - Должна появиться форма регистрации с полями Email, Password
     - Вводим Email
     - Вводим Password
     - Нажимаем кнопку Submit
