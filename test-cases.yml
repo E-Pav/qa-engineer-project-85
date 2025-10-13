@@ -12,7 +12,7 @@
     Password Confirmation: KuKu2025)  
   steps:
     - Нажать на кнопку "Sign up"
-    - Должна появиться форма регистрации с полями: Nickname, Email, Password, Password Confirmation
+    - Должна появиться форма регистрации с полями Nickname, Email, Password, Password Confirmation
     - Вводим Nickname
     - Вводим Email
     - Вводим Password
@@ -258,7 +258,7 @@
     Для образца - игра celsius_to_kelvin (rest, 1-star)
     Язык Java24
     Заменить c "Integer ans = 0;"  на
-    "Integer ans = celsius_to_kelvin;"
+    "Integer ans = temperature + 273;"
     Либо либая другая игра
   steps:
     - Противник вводит правильный код и нажимает "Run" до истечения таймер игры  
@@ -361,7 +361,7 @@
     Открыта главная страница сайта https://codebattle.hexlet.io/
     Открыты DevTools (F12)
   test-data: |
-    empty
+    no data
   steps:
     - Открыть вкладку "Application" -> "Cookies"
     - Нажать правой кнопкой мыши (clear)
